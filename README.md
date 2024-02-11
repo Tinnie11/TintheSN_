@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -151,7 +151,7 @@
 <body>
 
 <div class="header">
-  <img src="C:\Users\ASUS\Downloads\Untitled design (4).png" alt="Header Image">
+  <img src="C:/Users/ASUS/Downloads/Untitled design (4).png" alt="Header Image">
   <div class="header-content">
     <h1>Welcome to TintheSN.com</h1>
     <h2>The Ultimate Nursing Compilation Hub</h2>
